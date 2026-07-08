@@ -1,0 +1,1840 @@
+2026-07-08 01:59:21,355 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:22:35,940 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:22:35,954 - INFO - Successfully extracted raw text from data\invoices\test_invoice.pdf
+2026-07-08 02:22:35,958 - INFO - Invoice validation passed successfully.
+2026-07-08 02:22:35,969 - INFO - Invoice INV-2026-001 successfully saved to database.
+2026-07-08 02:25:43,772 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:25:44,359 - INFO - CSV report successfully exported to data\all_invoices_report.csv
+2026-07-08 02:25:44,540 - INFO - Excel report successfully exported to data\financial_summary_report.xlsx
+2026-07-08 02:35:58,260 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:37:59,893 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:38:22,042 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:38:24,742 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:38:26,562 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:38:27,782 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:38:27,821 - INFO - CSV report successfully exported to data\all_invoices_report.csv
+2026-07-08 02:38:27,931 - INFO - Excel report successfully exported to data\financial_summary_report.xlsx
+2026-07-08 02:38:28,778 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:40:14,774 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:40:29,612 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:40:35,256 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:40:37,771 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:40:40,377 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:40:49,108 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:40:56,616 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:40:58,389 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:41:00,197 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:41:02,627 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:41:06,044 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:41:10,669 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:41:21,879 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:44:49,756 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:50:19,863 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:50:30,044 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:50:31,828 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:50:50,517 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:51:08,884 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:51:11,744 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:51:12,668 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:51:14,237 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:51:26,471 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:55:45,293 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:55:58,718 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:56:08,980 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:58:54,017 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:58:55,731 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:58:55,777 - INFO - Master CSV Report successfully written to data/reports\master_consolidated_ledger.csv
+2026-07-08 02:58:58,042 - INFO - Multi-Sheet Financial Excel Analytics generated at data/reports\executive_financial_analytics.xlsx
+2026-07-08 02:59:07,817 - INFO - Database initialized successfully with invoices table.
+2026-07-08 02:59:07,847 - INFO - Master CSV Report successfully written to data/reports\master_consolidated_ledger.csv
+2026-07-08 02:59:07,927 - INFO - Multi-Sheet Financial Excel Analytics generated at data/reports\executive_financial_analytics.xlsx
+2026-07-08 03:03:20,483 - INFO - Database initialized successfully with invoices table.
+2026-07-08 03:03:22,971 - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Program Files\Python314\Lib\asyncio\events.py", line 94, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-07-08 03:03:25,483 - INFO - Database initialized successfully with invoices table.
+2026-07-08 03:03:34,750 - INFO - Database initialized successfully with invoices table.
+2026-07-08 03:03:39,368 - INFO - Database initialized successfully with invoices table.
+2026-07-08 03:03:43,896 - INFO - Database initialized successfully with invoices table.
+2026-07-08 03:03:45,857 - INFO - Database initialized successfully with invoices table.
+2026-07-08 03:03:49,138 - INFO - Database initialized successfully with invoices table.
+2026-07-08 03:03:50,917 - INFO - Database initialized successfully with invoices table.
+2026-07-08 03:03:50,954 - INFO - Master CSV Report successfully written to data/reports\master_consolidated_ledger.csv
+2026-07-08 03:03:51,096 - INFO - Multi-Sheet Financial Excel Analytics generated at data/reports\executive_financial_analytics.xlsx
+2026-07-08 03:03:52,617 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:20:19,095 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:21:30,406 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:22:07,133 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:22:31,572 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:23:06,191 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:23:46,280 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:23:55,291 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:24:01,437 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:24:07,772 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:24:09,618 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:24:09,672 - INFO - Invoice INV-2026-90 successfully saved to database.
+2026-07-09 00:26:20,914 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:26:25,202 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:26:27,312 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:26:27,357 - INFO - Master CSV Report successfully written to data/reports\master_consolidated_ledger.csv
+2026-07-09 00:26:27,880 - INFO - Multi-Sheet Financial Excel Analytics generated at data/reports\executive_financial_analytics.xlsx
+2026-07-09 00:26:33,229 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:26:38,788 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:26:46,211 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:26:49,472 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:26:51,680 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:55,817 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:56,369 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:56,373 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:56,386 - INFO - Invoice INV-2026-0714 successfully saved to database.
+2026-07-09 00:39:56,483 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:56,629 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:56,629 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:56,632 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:39:56,719 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:56,877 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:56,877 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:56,879 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:39:56,983 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:57,132 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:57,133 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:57,134 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:39:57,337 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:57,431 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:57,431 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:57,433 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:39:57,540 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:57,655 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:57,656 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:57,658 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:39:57,743 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:57,877 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:57,877 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:57,879 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:39:57,976 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:58,148 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:58,149 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:58,150 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:39:58,256 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:58,439 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:58,439 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:58,440 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:39:58,552 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:58,727 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:58,728 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:58,730 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:39:58,820 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:58,936 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:58,937 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:58,938 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:39:59,007 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:59,116 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:59,117 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:59,119 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:39:59,204 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:59,325 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:59,325 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:59,327 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:39:59,406 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:59,571 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:59,572 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:59,574 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:39:59,661 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:59,788 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:59,788 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:59,789 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:39:59,860 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:39:59,980 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:39:59,981 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:39:59,983 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:00,082 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:00,201 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:00,202 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:00,204 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:00,293 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:00,412 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:00,413 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:00,414 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:00,497 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:00,609 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:00,610 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:00,612 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:00,756 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:00,882 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:00,882 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:00,884 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:00,957 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:01,083 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:01,083 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:01,085 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:01,152 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:01,260 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:01,261 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:01,262 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:01,328 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:01,433 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:01,434 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:01,435 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:01,502 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:01,606 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:01,607 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:01,608 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:01,670 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:01,770 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:01,771 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:01,772 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:01,835 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:01,925 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:01,926 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:01,927 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:01,991 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:02,077 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:02,078 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:02,079 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:02,137 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:02,232 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:02,233 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:02,234 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:02,292 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:02,404 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:02,404 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:02,405 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:02,476 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:02,561 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:02,561 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:02,562 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:02,619 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:02,702 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:02,703 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:02,704 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:02,771 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:02,854 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:02,855 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:02,856 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:02,921 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:03,009 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:03,010 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:03,011 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:03,074 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:03,162 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:03,163 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:03,164 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:03,235 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:03,319 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:03,319 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:03,321 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:03,384 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:03,471 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:03,471 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:03,472 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:03,547 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:03,635 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:03,635 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:03,637 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:03,700 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:03,797 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:03,798 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:03,799 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:03,873 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:03,960 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:03,961 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:03,962 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:04,029 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:04,145 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:04,145 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:04,147 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:04,246 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:04,340 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:04,340 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:04,341 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:04,414 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:04,507 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:04,507 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:04,508 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:04,582 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:04,670 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:04,670 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:04,672 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:04,737 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:04,831 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:04,832 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:04,833 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:04,895 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:04,982 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:04,982 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:04,983 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:05,048 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:05,135 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:05,136 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:05,137 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:05,204 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:05,298 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:05,298 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:05,299 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:05,360 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:05,442 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:05,443 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:05,444 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:05,510 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:05,591 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:05,591 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:05,592 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:05,659 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:05,746 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:05,746 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:05,747 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:05,813 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:05,897 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:05,898 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:05,899 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:05,962 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:06,049 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:06,050 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:06,051 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:06,112 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:06,195 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:06,196 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:06,197 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:06,287 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:06,395 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:06,395 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:06,397 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:06,471 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:06,563 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:06,563 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:06,564 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:06,622 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:06,708 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:06,709 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:06,710 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:06,771 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:06,860 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:06,861 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:06,862 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:06,925 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:07,011 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:07,011 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:07,013 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:07,077 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:07,170 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:07,170 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:07,171 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:07,235 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:07,324 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:07,325 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:07,326 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:07,390 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:07,476 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:07,477 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:07,478 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:07,542 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:07,626 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:07,627 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:07,628 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:07,690 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:07,772 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:07,773 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:07,774 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:07,837 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:07,924 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:07,925 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:07,926 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:07,983 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:08,069 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:08,070 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:08,071 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:08,134 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:08,218 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:08,219 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:08,220 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:08,283 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:08,372 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:08,373 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:08,374 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:08,435 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:08,518 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:08,519 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:08,520 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:08,586 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:08,670 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:08,671 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:08,672 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:08,734 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:08,816 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:08,816 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:08,817 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:08,878 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:08,963 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:08,964 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:08,965 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:09,029 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:09,115 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:09,115 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:09,116 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:09,181 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:09,272 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:09,272 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:09,273 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:09,342 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:09,432 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:09,433 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:09,434 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:09,536 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:09,625 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:09,625 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:09,626 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:09,692 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:09,781 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:09,782 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:09,783 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:09,841 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:09,935 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:09,935 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:09,937 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:10,002 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:10,087 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:10,087 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:10,089 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:10,152 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:10,236 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:10,237 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:10,238 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:10,305 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:10,399 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:10,399 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:10,400 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:10,466 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:10,559 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:10,559 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:10,560 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:10,647 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:10,772 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:10,773 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:10,774 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:10,855 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:10,974 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:10,975 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:10,976 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:11,083 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:11,218 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:11,219 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:11,220 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:11,292 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:11,392 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:11,392 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:11,393 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:11,453 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:11,567 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:11,568 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:11,569 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:11,643 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:11,757 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:11,757 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:11,759 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:11,848 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:11,956 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:11,956 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:11,957 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:12,036 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:12,148 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:12,149 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:12,150 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:12,225 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:12,343 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:12,344 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:12,345 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:12,426 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:12,543 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:12,543 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:12,545 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:12,619 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:12,737 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:12,738 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:12,739 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:12,826 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:12,949 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:12,949 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:12,951 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:13,041 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:13,149 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:13,150 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:13,151 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:13,224 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:13,339 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:13,339 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:13,341 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:13,426 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:13,532 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:13,533 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:13,534 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:13,626 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:13,737 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:13,737 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:13,738 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:13,816 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:13,936 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:13,937 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:13,938 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:14,030 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:14,148 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:14,149 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:14,150 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:14,241 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:14,356 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:14,356 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:14,357 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:14,423 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:14,518 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:14,519 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:14,520 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:14,591 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:14,689 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:14,690 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:14,691 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:14,761 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:14,857 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:14,857 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:14,858 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:14,922 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:15,028 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:15,028 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:15,030 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:15,098 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:15,208 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:15,209 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:15,210 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:15,280 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:15,373 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:15,373 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:15,374 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:15,435 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:15,539 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:15,539 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:15,540 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:15,613 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:15,726 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:15,727 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:15,728 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:15,795 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:15,899 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:15,899 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:15,900 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:15,979 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:16,071 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:16,071 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:16,073 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:16,138 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:16,234 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:16,234 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:16,235 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:16,306 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:16,405 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:16,406 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:16,407 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:16,474 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:16,567 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:16,568 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:16,568 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:16,653 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:16,759 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:16,760 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:16,761 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:16,832 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:16,919 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:16,920 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:16,922 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:16,991 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:17,077 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:17,078 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:17,079 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:17,149 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:17,244 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:17,245 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:17,246 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:17,312 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:17,400 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:17,401 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:17,402 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:17,469 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:17,561 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:17,562 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:17,563 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:17,627 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:17,714 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:17,715 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:17,716 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:17,783 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:17,871 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:17,871 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:17,872 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:17,935 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:18,029 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:18,029 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:18,031 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:18,101 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:18,194 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:18,195 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:18,196 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:18,263 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:18,355 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:18,355 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:18,356 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:18,419 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:18,523 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:18,524 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:18,525 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:18,590 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:18,678 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:18,678 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:18,679 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:18,746 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:18,833 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:18,834 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:18,835 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:18,898 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:18,991 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:18,991 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:18,992 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:19,057 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:19,146 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:19,146 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:19,147 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:19,214 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:19,300 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:19,300 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:19,301 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:19,365 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:19,465 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:19,466 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:19,469 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:19,469 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:27,885 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:28,085 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:28,086 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:28,087 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:28,208 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:28,343 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:28,344 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:28,345 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:28,460 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:28,593 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:28,594 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:28,595 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:28,701 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:28,850 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:28,851 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:28,853 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:28,950 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:29,061 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:29,062 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:29,063 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:29,139 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:29,247 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:29,248 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:29,249 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:29,320 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:29,429 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:29,430 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:29,431 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:29,512 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:29,628 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:29,629 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:29,630 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:29,709 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:29,826 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:29,827 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:29,828 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:29,897 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:30,009 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:30,010 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:30,011 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:30,081 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:30,201 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:30,202 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:30,204 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:30,304 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:30,444 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:30,445 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:30,447 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:30,535 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:30,686 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:30,687 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:30,688 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:30,766 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:30,897 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:30,897 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:30,898 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:30,976 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:31,123 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:31,123 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:31,124 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:31,197 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:31,335 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:31,335 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:31,336 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:31,403 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:31,525 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:31,525 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:31,527 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:31,594 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:31,740 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:31,741 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:31,745 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:31,821 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:31,936 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:31,937 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:31,938 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:32,027 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:32,172 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:32,172 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:32,173 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:32,250 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:32,367 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:32,368 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:32,369 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:32,435 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:32,552 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:32,552 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:32,556 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:32,622 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:32,731 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:32,732 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:32,733 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:32,804 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:32,929 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:32,930 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:32,931 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:33,006 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:33,134 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:33,135 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:33,136 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:33,214 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:33,328 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:33,329 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:33,330 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:33,400 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:33,526 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:33,526 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:33,528 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:33,606 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:33,727 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:33,728 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:33,729 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:33,796 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:33,932 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:33,932 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:33,935 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:34,020 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:34,144 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:34,145 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:34,146 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:34,228 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:34,344 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:34,345 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:34,346 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:34,435 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:34,554 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:34,555 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:34,556 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:34,646 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:34,759 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:34,760 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:34,761 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:34,876 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:35,026 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:35,027 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:35,028 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:35,125 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:35,278 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:35,279 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:35,280 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:35,394 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:35,531 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:35,532 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:35,533 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:35,638 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:35,765 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:35,766 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:35,767 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:35,841 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:35,947 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:35,947 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:35,949 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:36,031 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:36,138 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:36,139 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:36,141 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:36,218 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:36,330 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:36,330 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:36,331 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:36,424 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:36,532 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:36,533 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:36,534 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:36,625 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:36,733 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:36,733 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:36,734 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:36,846 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:36,998 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:36,999 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:37,001 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:37,126 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:37,226 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:37,227 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:37,228 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:37,299 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:37,385 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:37,385 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:37,387 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:37,453 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:37,555 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:37,555 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:37,556 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:37,638 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:37,746 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:37,746 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:37,747 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:37,825 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:37,927 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:37,928 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:37,929 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:38,001 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:38,097 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:38,097 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:38,098 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:38,170 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:38,265 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:38,265 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:38,266 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:38,327 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:38,430 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:38,430 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:38,432 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:38,530 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:38,627 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:38,627 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:38,628 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:38,733 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:38,833 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:38,834 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:38,835 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:38,908 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:39,013 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:39,013 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:39,014 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:39,091 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:39,208 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:39,209 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:39,210 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:39,295 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:39,413 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:39,413 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:39,415 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:39,511 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:39,632 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:39,633 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:39,634 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:39,728 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:39,846 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:39,847 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:39,848 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:39,946 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:40,052 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:40,053 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:40,054 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:40,147 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:40,257 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:40,258 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:40,259 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:40,339 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:40,441 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:40,442 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:40,443 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:40,512 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:40,611 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:40,612 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:40,613 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:40,689 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:40,837 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:40,837 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:40,839 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:40,942 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:41,047 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:41,048 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:41,049 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:41,150 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:41,259 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:41,260 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:41,261 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:41,335 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:41,439 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:41,439 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:41,440 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:41,511 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:41,614 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:41,615 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:41,616 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:41,680 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:41,779 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:41,779 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:41,780 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:41,860 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:41,948 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:41,949 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:41,950 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:42,018 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:42,122 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:42,123 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:42,124 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:42,254 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:42,377 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:42,377 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:42,379 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:42,505 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:42,615 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:42,616 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:42,617 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:42,705 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:42,818 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:42,819 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:42,819 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:42,924 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:43,057 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:43,059 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:43,060 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:43,148 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:43,265 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:43,265 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:43,266 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:43,351 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:43,460 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:43,460 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:43,461 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:43,554 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:43,672 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:43,673 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:43,674 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:43,812 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:43,950 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:43,951 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:43,952 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:44,059 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:44,186 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:44,186 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:44,187 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:44,289 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:44,409 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:44,410 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:44,413 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:44,551 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:44,694 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:44,695 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:44,697 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:44,793 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:44,918 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:44,919 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:44,920 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:44,995 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:45,102 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:45,103 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:45,104 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:45,219 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:45,347 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:45,348 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:45,350 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:45,481 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:45,599 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:45,600 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:45,601 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:45,668 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:45,768 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:45,769 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:45,770 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:45,844 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:45,946 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:45,947 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:45,948 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:46,013 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:46,121 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:46,122 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:46,123 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:46,225 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:46,343 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:46,344 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:46,345 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:46,427 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:46,514 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:46,514 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:46,515 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:46,603 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:46,718 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:46,719 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:46,720 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:46,818 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:46,924 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:46,925 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:46,926 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:47,005 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:47,109 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:47,110 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:47,111 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:47,174 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:47,285 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:47,286 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:47,290 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:47,374 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:47,484 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:47,485 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:47,486 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:47,578 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:47,689 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:47,690 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:47,692 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:47,775 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:47,903 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:47,904 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:47,905 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:47,986 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:48,108 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:48,109 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:48,110 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:48,198 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:48,302 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:48,302 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:48,306 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:48,399 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:48,500 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:48,501 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:48,502 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:48,587 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:48,674 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:48,675 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:48,676 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:48,742 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:48,837 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:48,837 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:48,838 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:48,905 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:49,003 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:49,004 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:49,005 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:49,085 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:49,180 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:49,181 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:49,182 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:49,248 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:49,369 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:49,369 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:49,370 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:49,436 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:49,524 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:49,524 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:49,526 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:49,599 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:49,708 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:49,709 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:49,710 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:49,791 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:49,905 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:49,906 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:49,907 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:50,014 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:50,132 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:50,132 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:50,133 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:50,196 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:50,289 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:50,289 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:50,291 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:50,354 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:50,450 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:50,451 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:50,452 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:50,512 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:50,603 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:50,603 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:50,605 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:50,673 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:50,766 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:50,767 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:50,768 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:50,845 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:50,941 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:50,941 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:50,942 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:51,007 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:51,100 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:51,100 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:51,101 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:51,180 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:51,328 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:51,329 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:51,330 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:51,423 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:51,532 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:51,532 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:51,533 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:51,690 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:51,819 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:51,819 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:51,820 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:51,896 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:51,992 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:51,993 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:51,994 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:52,059 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:52,159 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:52,160 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:52,161 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:52,252 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:52,336 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:52,336 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:52,338 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:52,399 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:52,492 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:52,492 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:52,494 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:52,558 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:52,644 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:52,645 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:52,646 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:52,728 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:52,811 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:52,812 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:52,813 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:52,877 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:52,971 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:52,971 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:52,973 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:53,045 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:53,137 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:53,138 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:53,139 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:53,221 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:53,309 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:53,309 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:53,310 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:53,374 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:53,469 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:53,469 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:53,470 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:53,542 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:53,639 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:53,640 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:53,641 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:53,714 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:53,803 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:53,803 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:53,804 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:53,866 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:53,962 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:53,962 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:53,963 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:54,023 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:54,113 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:54,113 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:54,114 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:54,179 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:54,274 - INFO - Successfully extracted raw text from data\invoices\invoice_sample.pdf
+2026-07-09 00:40:54,275 - WARNING - Validation alert for Invoice INV-2026-0714: Missing Fields: total_amount
+2026-07-09 00:40:54,276 - WARNING - Duplicate invoice skipped: INV-2026-0714
+2026-07-09 00:40:54,362 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:40:56,266 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:15,860 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:16,736 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:16,738 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:16,752 - INFO - Invoice INV-2026-0716 successfully saved to database.
+2026-07-09 00:46:16,884 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:17,037 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:17,037 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:17,041 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:17,166 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:17,317 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:17,318 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:17,320 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:17,407 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:17,540 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:17,542 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:17,543 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:17,720 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:17,823 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:17,824 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:17,825 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:17,925 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:18,051 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:18,052 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:18,053 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:18,136 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:18,275 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:18,275 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:18,277 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:18,371 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:18,510 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:18,510 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:18,512 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:18,604 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:18,764 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:18,764 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:18,765 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:18,852 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:19,005 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:19,006 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:19,008 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:19,162 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:19,260 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:19,260 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:19,262 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:19,355 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:19,498 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:19,498 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:19,500 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:19,596 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:19,757 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:19,757 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:19,758 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:19,862 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:20,008 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:20,009 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:20,010 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:20,103 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:20,277 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:20,277 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:20,279 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:20,363 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:20,483 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:20,484 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:20,485 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:20,565 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:20,667 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:20,668 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:20,669 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:20,751 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:20,856 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:20,857 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:20,858 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:20,925 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:21,030 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:21,031 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:21,032 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:21,126 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:21,229 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:21,230 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:21,232 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:21,305 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:21,405 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:21,406 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:21,407 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:21,482 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:21,588 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:21,589 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:21,590 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:21,661 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:21,763 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:21,763 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:21,764 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:21,838 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:21,953 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:21,953 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:21,954 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:22,021 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:22,126 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:22,127 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:22,128 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:22,204 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:22,309 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:22,310 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:22,311 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:22,381 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:22,493 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:22,494 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:22,495 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:22,564 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:22,662 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:22,663 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:22,664 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:22,735 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:22,840 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:22,840 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:22,842 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:22,911 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:23,014 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:23,015 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:23,016 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:23,086 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:23,194 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:23,194 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:23,195 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:23,266 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:23,373 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:23,373 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:23,374 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:23,445 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:23,543 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:23,544 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:23,545 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:23,614 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:23,700 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:23,701 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:23,702 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:23,766 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:23,849 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:23,849 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:23,851 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:23,916 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:24,016 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:24,017 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:24,018 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:24,082 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:24,164 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:24,164 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:24,165 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:24,225 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:24,309 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:24,310 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:24,311 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:24,376 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:24,454 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:24,454 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:24,455 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:24,522 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:24,602 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:24,603 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:24,604 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:24,666 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:24,753 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:24,754 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:24,755 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:24,837 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:24,923 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:24,923 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:24,924 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:24,981 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:25,064 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:25,065 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:25,066 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:25,132 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:25,220 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:25,220 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:25,221 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:25,287 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:25,379 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:25,380 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:25,381 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:25,449 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:25,544 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:25,544 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:25,545 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:25,606 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:25,698 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:25,698 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:25,699 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:25,758 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:25,846 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:25,847 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:25,848 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:25,911 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:26,000 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:26,000 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:26,001 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:26,060 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:26,144 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:26,146 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:26,147 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:26,214 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:26,298 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:26,298 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:26,299 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:26,366 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:26,452 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:26,452 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:26,453 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:26,523 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:26,608 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:26,609 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:26,610 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:26,675 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:26,769 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:26,770 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:26,771 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:26,836 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:26,925 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:26,925 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:26,926 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:26,993 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:27,083 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:27,084 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:27,085 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:27,158 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:27,240 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:27,240 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:27,241 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:27,304 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:27,390 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:27,390 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:27,391 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:27,457 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:27,541 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:27,542 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:27,543 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:27,611 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:27,738 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:27,739 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:27,740 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:27,823 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:27,918 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:27,919 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:27,920 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:27,992 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:28,089 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:28,090 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:28,091 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:28,160 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:28,245 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:28,246 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:28,247 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:28,316 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:28,404 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:28,405 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:28,406 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:28,474 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:28,559 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:28,560 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:28,561 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:28,626 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:28,721 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:28,721 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:28,722 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:28,790 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:28,877 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:28,877 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:28,878 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:28,944 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:29,032 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:29,033 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:29,034 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:29,099 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:29,193 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:29,194 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:29,195 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:29,272 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:29,355 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:29,356 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:29,357 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:29,425 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:29,509 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:29,510 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:29,511 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:29,575 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:29,660 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:29,660 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:29,661 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:29,726 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:29,832 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:29,832 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:29,833 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:29,895 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:30,011 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:30,011 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:30,012 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:30,091 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:30,198 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:30,199 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:30,200 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:30,282 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:30,370 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:30,371 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:30,372 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:30,434 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:30,528 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:30,528 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:30,529 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:30,604 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:30,697 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:30,697 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:30,698 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:30,773 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:30,865 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:30,866 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:30,867 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:30,933 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:31,018 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:31,019 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:31,020 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:31,083 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:31,166 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:31,167 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:31,168 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:31,236 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:31,328 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:31,329 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:31,330 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:31,397 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:31,482 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:31,483 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:31,484 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:31,555 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:31,651 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:31,652 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:31,653 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:31,724 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:31,808 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:31,809 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:31,810 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:31,876 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:31,960 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:31,960 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:31,961 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:32,030 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:32,110 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:32,110 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:32,112 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:32,178 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:32,264 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:32,265 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:32,266 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:32,330 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:32,415 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:32,416 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:32,417 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:32,490 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:32,583 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:32,583 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:32,584 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:32,656 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:32,741 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:32,742 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:32,743 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:32,809 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:32,895 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:32,896 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:32,897 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:32,963 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:33,049 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:33,050 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:33,051 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:33,118 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:33,212 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:33,212 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:33,214 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:33,278 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:33,371 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:33,371 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:33,372 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:33,433 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:33,527 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:33,527 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:33,528 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:33,600 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:33,684 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:33,685 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:33,686 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:33,748 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:33,834 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:33,834 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:33,836 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:33,904 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:33,990 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:33,990 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:33,991 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:34,056 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:34,143 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:34,144 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:34,145 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:34,218 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:34,311 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:34,312 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:34,313 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:34,391 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:34,480 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:34,481 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:34,482 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:34,553 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:34,652 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:34,652 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:34,653 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:34,716 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:34,803 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:34,804 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:34,805 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:34,871 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:34,963 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:34,964 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:34,966 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:35,033 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:35,120 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:35,120 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:35,121 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:35,183 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:35,268 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:35,269 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:35,271 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:35,331 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:35,418 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:35,419 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:35,420 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:35,496 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:35,576 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:35,577 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:35,578 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:35,660 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:35,763 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:35,764 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:35,765 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:35,827 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:35,928 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:35,929 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:35,930 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:36,024 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:36,136 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:36,137 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:36,138 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:36,222 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:36,322 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:36,323 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:36,324 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:36,389 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:36,478 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:36,479 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:36,480 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:36,552 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:36,650 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:36,650 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:36,651 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:36,718 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:36,804 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:36,804 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:36,806 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:36,875 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:36,976 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:36,976 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:36,977 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:37,056 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:37,147 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:37,148 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:37,149 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:37,228 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:37,325 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:37,325 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:37,326 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:37,401 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:37,494 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:37,494 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:37,496 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:37,574 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:37,672 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:37,672 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:37,674 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:37,762 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:37,862 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:37,862 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:37,864 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:37,932 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:38,019 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:38,020 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:38,020 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:38,084 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:38,169 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:38,170 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:38,171 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:38,236 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:38,326 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:38,326 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:38,327 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:38,388 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:38,476 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:38,477 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:38,478 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:38,542 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:38,624 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:38,625 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:38,626 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:38,695 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:38,786 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:38,787 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:38,788 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:38,850 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:38,936 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:38,937 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:38,938 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:39,002 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:39,085 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:39,086 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:39,087 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:39,153 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:39,241 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:39,241 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:39,242 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:39,305 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:39,399 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:39,400 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:39,401 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:39,469 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:39,560 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:39,560 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:39,561 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:39,634 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:39,723 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:39,724 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:39,725 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:39,795 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:39,886 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:39,886 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:39,887 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:39,956 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:40,052 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:40,053 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:40,054 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:40,127 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:40,223 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:40,223 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:40,225 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:40,320 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:40,403 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:40,403 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:40,405 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:40,469 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:40,557 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:40,557 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:40,559 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:40,624 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:40,713 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:40,713 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:40,714 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:40,778 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:40,867 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:40,868 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:40,869 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:40,938 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:41,027 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:41,028 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:41,029 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:41,097 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:41,182 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:41,182 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:41,184 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:41,254 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:41,344 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:41,345 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:41,346 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:41,417 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:41,505 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:41,506 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:41,507 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:41,577 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:41,676 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:41,677 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:41,678 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:41,752 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:41,832 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:41,833 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:41,834 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:41,897 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:41,983 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:41,984 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:41,985 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:42,047 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:42,134 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:42,135 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:42,136 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:42,201 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:42,309 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:42,310 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:42,311 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:42,397 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:42,487 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:42,487 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:42,488 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:42,558 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:42,682 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:42,683 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:42,684 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:42,770 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:42,878 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:42,878 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:42,880 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:42,948 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:43,038 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:43,038 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:43,040 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:43,107 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:43,193 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:43,194 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:43,195 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:43,257 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:43,346 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:43,347 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:43,348 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:43,410 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:43,497 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:43,498 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:43,499 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:43,559 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:43,644 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:43,645 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:43,646 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:43,709 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:43,791 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:43,792 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:43,793 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:43,859 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:43,949 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:43,949 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:43,951 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:44,019 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:44,102 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:44,103 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:44,104 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:44,165 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:44,268 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:44,268 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:44,269 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:44,331 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:44,416 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:44,416 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:44,417 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:44,479 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:44,565 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:44,565 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:44,566 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:44,627 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:44,728 - INFO - Successfully extracted raw text from data\invoices\invoice_sample_3.pdf
+2026-07-09 00:46:44,728 - WARNING - Validation alert for Invoice INV-2026-0716: Missing Fields: total_amount
+2026-07-09 00:46:44,729 - WARNING - Duplicate invoice skipped: INV-2026-0716
+2026-07-09 00:46:44,834 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:44,908 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:47,816 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:47,862 - INFO - Master CSV Report successfully written to data/reports\master_consolidated_ledger.csv
+2026-07-09 00:46:47,974 - INFO - Multi-Sheet Financial Excel Analytics generated at data/reports\executive_financial_analytics.xlsx
+2026-07-09 00:46:52,611 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:46:52,641 - INFO - Master CSV Report successfully written to data/reports\master_consolidated_ledger.csv
+2026-07-09 00:46:52,723 - INFO - Multi-Sheet Financial Excel Analytics generated at data/reports\executive_financial_analytics.xlsx
+2026-07-09 00:47:14,294 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:47:14,342 - INFO - Master CSV Report successfully written to data/reports\master_consolidated_ledger.csv
+2026-07-09 00:47:14,404 - INFO - Multi-Sheet Financial Excel Analytics generated at data/reports\executive_financial_analytics.xlsx
+2026-07-09 00:47:14,533 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:47:14,555 - INFO - Master CSV Report successfully written to data/reports\master_consolidated_ledger.csv
+2026-07-09 00:47:14,622 - INFO - Multi-Sheet Financial Excel Analytics generated at data/reports\executive_financial_analytics.xlsx
+2026-07-09 00:47:25,166 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:47:27,580 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:47:50,096 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:47:51,839 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:52:38,109 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:53:00,394 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:53:06,776 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:53:06,798 - INFO - Master CSV Report successfully written to data/reports\master_consolidated_ledger.csv
+2026-07-09 00:53:06,887 - INFO - Multi-Sheet Financial Excel Analytics generated at data/reports\executive_financial_analytics.xlsx
+2026-07-09 00:53:12,892 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:53:16,998 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:53:18,744 - INFO - Database initialized successfully with invoices table.
+2026-07-09 00:53:25,281 - INFO - Database initialized successfully with invoices table.
+2026-07-09 01:03:01,331 - INFO - Database initialized successfully with invoices table.
+2026-07-09 01:03:08,546 - INFO - Database initialized successfully with invoices table.

@@ -1,0 +1,2 @@
+id,invoice_number,vendor_name,customer_name,invoice_date,due_date,tax_amount,total_amount,currency,payment_status,validation_status,processing_date
+1,INV-2026-001,ABC Vendor Solutions,,08-July-2026,25-July-2026,15.0,150.0,USD,Pending,Valid,2026-07-07 21:22:35

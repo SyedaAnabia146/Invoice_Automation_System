@@ -1,0 +1,5 @@
+*.db
+.streamlit/
+__pycache__/
+data/invoices/
+data/reports/

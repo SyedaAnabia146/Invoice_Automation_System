@@ -33,10 +33,13 @@ Invoice_Automation_System/
 ├── .gitignore              # Production Exclusions File
 └── README.md               # Architecture Documentation File
 
+(Clone the Workspace Repository)
 git clone [https://github.com/SyedaAnabia146/Invoice_Automation_System.git](https://github.com/SyedaAnabia146/Invoice_Automation_System.git)
 cd Invoice_Automation_System 
 
+(Install Required Enterprise Libraries)
 pip install streamlit pandas openpyxl reportlab
 
+(Launch the Application Client)
 python -m streamlit run app.py
 
